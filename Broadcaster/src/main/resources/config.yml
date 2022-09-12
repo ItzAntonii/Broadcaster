@@ -1,0 +1,15 @@
+prefix-broadcast: '&c&lBROADCAST!&r '
+
+# The command /broadcast requires the permission broadcaster.broadcast
+# The command /broadcast-reload requires the permission broadcaster.reload
+
+prefix-plugin: '&8[&cBroadcaster&8]&r '
+
+# MESSAGES
+
+Usage-Message: '&cUsage: /broadcast <message>'
+NoPerms-Message: '&cYou do not have permissions to do this!'
+Reload-Message: '&aThe plugin has been reloaded.'
+
+# THIS MESSAGE ONLY APPEARS IN THE CONSOLE
+BroadcastBy-Message: '&aBroadcast by: &e%broadcastby%'

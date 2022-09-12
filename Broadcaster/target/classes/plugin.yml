@@ -1,0 +1,10 @@
+name: Broadcaster
+version: '1.6'
+main: me.antonitoo.broadcaster.Main
+authors: [ antonitoo ]
+description: A plugin to send Broadcasts.
+commands:
+  broadcast:
+    description: Broadcasts a message.
+  broadcast-reload:
+    description: Reloads the plugin.
